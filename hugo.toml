@@ -22,12 +22,6 @@ copyright = "&copy; 2023, Jonas Bučinskas"
     title = "Posts"
     url = "/posts/"
     weight = -100
-  [[menu.main]]
-    identifier = "fiestos"
-    name = "Fiestos"
-    title = "Fiestos"
-    url = "https:/fiestos.com"
-    weight = -90
 
 # Configuration Features
 [params]
