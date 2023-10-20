@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jonas Bučinskas</title>
-    <link>https://bucinskas.io/</link>
-    <description>Recent content on Jonas Bučinskas</description>
+    <title>Posts on Jonas Bučinskas</title>
+    <link>https://bucinskas.io/posts/</link>
+    <description>Recent content in Posts on Jonas Bučinskas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023, Jonas Bučinskas</copyright>
-    <lastBuildDate>Thu, 09 Feb 2023 13:35:53 +0300</lastBuildDate><atom:link href="https://bucinskas.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 13:35:53 +0300</lastBuildDate><atom:link href="https://bucinskas.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kaunas Has the Audacity</title>
       <link>https://bucinskas.io/posts/kaunas-has-the-audacity/</link>
