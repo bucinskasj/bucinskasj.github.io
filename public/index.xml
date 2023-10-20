@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023, Jonas Bučinskas</copyright>
-    <lastBuildDate>Thu, 09 Feb 2023 13:35:53 +0300</lastBuildDate><atom:link href="https://bucinskas.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 15:49:40 +0300</lastBuildDate><atom:link href="https://bucinskas.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>README / User Manual</title>
+      <link>https://bucinskas.io/posts/readme/</link>
+      <pubDate>Mon, 06 Mar 2023 15:49:40 +0300</pubDate>
+      
+      <guid>https://bucinskas.io/posts/readme/</guid>
+      <description>README / User Manual Interested in creating your own user manual? Check out this article
+Last update: Oct 20, 2023
+About Usually, I revisit this document once a year. I&amp;rsquo;m always surprised to see how my approach to product and now company development has evolved. Every year I learn something new and in a lot of cases those learnings are about things that I should stop doing or pay attention to.</description>
+    </item>
+    
     <item>
       <title>Kaunas Has the Audacity</title>
       <link>https://bucinskas.io/posts/kaunas-has-the-audacity/</link>
