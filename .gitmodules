@@ -1,4 +1,4 @@
 [submodule "themes/devise"]
 	path = themes/devise
-	url = https://github.com/austingebauer/devise.git
+	url = https://github.com/bucinskasj/devise.git
 	ignore = dirty
