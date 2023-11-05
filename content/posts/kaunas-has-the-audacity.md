@@ -3,6 +3,8 @@ title = 'Kaunas Has the Audacity'
 date = 2023-02-09T13:35:53+03:00
 +++
 
+# Kaunas Has the Audacity
+
 A few years ago I was about an hour away from boarding a flight to New York when a stranger in front of me just plainly asked "What's happening in Kaunas in 2022?". Honestly, it threw me off a little until I realized I was wearing a T-Shirt with "Kaunas 2022" written all over it. After quickly gathering my thoughts, I launched into a pitch.
 
 I talked about what the European Capital of Culture is, how every year a few new cities take the title, what it means, and how Kaunas is going to be different. I have closely followed the preparations, checked who's behind all of it, attended a couple of early gatherings(that's how I got the T-Shirt), and had a feeling that they were cooking something really special.
