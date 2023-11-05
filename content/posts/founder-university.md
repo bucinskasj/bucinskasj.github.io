@@ -1,7 +1,6 @@
 +++
 title = 'What to expect from Founder.University?'
 date = 2023-11-05T23:02:14+03:00
-draft = true
 +++
 
 # What to expect from Founder.University?
