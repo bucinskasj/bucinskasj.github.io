@@ -14,7 +14,7 @@ _Hint_: You should!
 
 Founder University (FU for short) will teach you how to start a technology company. It's a 12-week pre-accelerator for startups that is run by [Kelly](https://twitter.com/KSchricks) and [Presh](https://twitter.com/preshdkumar), and is part of a larger [LAUNCH venture investment firm/accelerator](https://www.launch.co/) headed by none other than [Jason Calacanis](https://twitter.com/Jason) himself.
 
-FU operates in a remote-first format, so you can complete it from anywhere in the world. It has a $500 deposit that is returned if you join all the mandatory Monday sessions and, also, offers scholarships for broke founders like yours truly, who sometimes have trouble scrounging up $500 on the spot.
+FU operates in a remote-first format, so you can complete it from anywhere in the world. **It has a $500 deposit that is fully refunded if you join all the mandatory Monday sessions** and, also, offers scholarships for broke founders like yours truly, who sometimes have trouble scrounging up $500 on the spot.
 
 ## Application process
 
@@ -27,7 +27,7 @@ I assume that the selection criteria still depends on the individual case, howev
 - Builder founders. No "ideas peoples". You have the skills to build your product in-house. No outsourcing.
 - Teams of 2-3 founders. You were able to make the first and the most important sale -- you convinced someone else to join your team.
 
-The above two are the most important ones for sure, however, it might evolve over time as FUN gets more traction. The first few cohorts had a 100% acceptance rate, while Cohort 6 had 10%.
+The above two are the most important ones for sure, however, it might evolve over time as FU gets more traction. The first few cohorts had a 100% acceptance rate, while Cohort 6 had 10%.
 {{< tweet user="Jason" id="1690470998402015232" >}}
 
 ## Cadence
@@ -35,14 +35,14 @@ The above two are the most important ones for sure, however, it might evolve ove
 Each week has three regular activities:
 
 - Monday, 6PM PST. Mandatory one hour keynote from a topic matter expert
-- Thurday, 6PM PST. Optional one hour workshop
+- Thursday, 6PM PST. Optional one hour workshop
 - Weekly update. A short form to report your progress over the week
 
 This cadence is perfect, doesn't take a lot of time, and doesn't distract you from what matters the most -- building your startup.
 
 Each Monday session has a special topic. Starting with talks about one simple sentence, building in public, landing pages, and later going into pitches, fundraising, and the data rooms.
 
-Thursdays are usually reserved for workshops. Here you'll have an opportunity to work direclty with other founders on the topic that was discussed earlier in the week. So if on Monday there was a presentation about landing pages, then on Thursday expect an opportunity to roast each others landings and get some valuable feedback.
+Thursdays are usually reserved for workshops. Here you'll have an opportunity to work directly with other founders on the topic that was discussed earlier in the week. So if on Monday there was a presentation about landing pages, then on Thursday expect an opportunity to roast each others landings and get some valuable feedback.
 
 Personally, I found Thursday sessions to be the most valuable part of FU because it's one thing to get directions from an expert who "made it" and it's completely another thing to get into the weeds with a fellow founder who is going through the same journey as you. Their experience is still fresh; they are aware of the constraints, pressures and are still going through that messy middle. This is also where you'll have a chance to make new connections that, in the future, might help you land that new client, investor, or a new hire.
 
