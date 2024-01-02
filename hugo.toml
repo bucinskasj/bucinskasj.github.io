@@ -6,7 +6,7 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; 2023, Jonas Bučinskas"
+copyright = "&copy; 2024, Jonas Bučinskas"
 
 # Main menu items
 [menu]
