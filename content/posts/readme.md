@@ -7,7 +7,7 @@ date = 2023-03-06T15:49:40+03:00
 
 _Interested in creating your own user manual? Check out [this article](https://feld.com/archives/2016/04/user-manual-working/)_
 
-Last update: Oct 20, 2023
+Last update: Jan 14, 2024
 
 ## About
 
@@ -16,7 +16,7 @@ Usually, I revisit this document once a year. I'm always surprised to see how my
 ## Logistics
 
 - Based in Kaunas, Lithuania
-- Know how to work across multiple timezones and never had issues collaborating with teammates who are spread across the world. It's all about setting expectations and sticking to them
+- Know how to work across multiple timezones. Never had issues collaborating with teammates who are spread across the world. It's all about setting expectations and sticking to them.
 - Deeply invested in my career development. I do believe in work-life integration and I'm totally OK working long hours, because I really enjoy what I'm doing.
 
 ## Communication
@@ -43,22 +43,22 @@ Usually, I revisit this document once a year. I'm always surprised to see how my
 
 ## Technology
 
-Before 2022, I was in "just enough to be dangerous" club. Enough technical knowledge to have in-depth conversations about the underlying tech work. Not enough knowledge to actually go and build those things. Changed that in 2022 and started building software products on my own. Also, during my career, I was fortunate enough to work with some stellar engineers. Some of them started coding before I was born! Naturally, some of the high-level concepts rubbed on me and
+Before 2022, I was in "just enough to be dangerous" club. Enough technical knowledge to have in-depth conversations about the underlying tech work. Not enough knowledge to actually go and build those things. Changed that in 2022 and started building software products on my own. Also, during my career, I was fortunate enough to work with some stellar engineers. Some of them started coding before I was born! Naturally, some of the high-level concepts rubbed on me:
 
-- **Ship often:** code that is not in production is useless. Your users can't provide feedback. Also, nobody likes massive Pull Requests. Please do yourself and others a favor. Ship often!
+- **Ship often:** code that is not in production is useless. Your users can't provide feedback. Also, nobody likes a massive Pull Request. Please do yourself a favor and ship often!
 - **All tech stacks are great:** Just choose the right tools for the job and the business case.
-- Product Managers who have been doing their work for > 5years and still don't know how to code are useless. What the hell they have been doing all of this time?
+- Product Managers who have been doing their work for > 5years should really consider learning to code. Especially when the job market wants to do more with less.
 
 ## How can people earn an extra gold star with me?
 
 - I admire people who push out information about their work status
-- I look up to people who are organized. Yes, things sometimes get out of control for everyone, however, general organization and discipline is really important
-- Tell me how I can improve
+- I look up to people who are organized. Yes, work sometimes gets out of control for everyone, however, general organization and discipline is really important.
+- Push me for excellence. Tell me how I can improve
 
 ## What are some things that people might misunderstand about me?
 
 - **Strong opinions loosely held:** I always drive for solutions, but that does not mean that my solutions are the best ones. I will always have strong position about my work, but please do tell me if my solution is wrong even when I’m not asking for feedback. The best products are born in continuous feedback cycles
-- **I do sleep:** people often ask me if I ever sleep. I do
+- **I do sleep:** people often ask me if I ever sleep. I do.
 
 ## How do I give feedback?
 
