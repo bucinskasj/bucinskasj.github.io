@@ -7,7 +7,7 @@ date = 2023-03-06T15:49:40+03:00
 
 _Interested in creating your own user manual? Check out [this article](https://feld.com/archives/2016/04/user-manual-working/)_
 
-Last update: Jan 14, 2024
+Last update: Jun 17, 2025
 
 ## About
 
@@ -15,7 +15,7 @@ Usually, I revisit this document once a year. I'm always surprised to see how my
 
 ## Logistics
 
-- Based in Kaunas, Lithuania
+- Based in Vilnius, Lithuania
 - Know how to work across multiple timezones. Never had issues collaborating with teammates who are spread across the world. It's all about setting expectations and sticking to them.
 - Deeply invested in my career development. I do believe in work-life integration and I'm totally OK working long hours, because I really enjoy what I'm doing.
 
@@ -62,7 +62,7 @@ Before 2022, I was in "just enough to be dangerous" club. Enough technical knowl
 
 ## How do I give feedback?
 
-I will not wait for a good opportunity to give positive or negative feedback. I do it on the spot. Punting negative feedback to later is just another way to avoid uncomfortable conversations.
+I will not wait for a good opportunity to give positive or negative feedback. I do it on the spot. Punting feedback to later is just another way to avoid uncomfortable conversations.
 
 ## How do I like to receive feedback
 
