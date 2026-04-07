@@ -7,23 +7,24 @@ date = 2023-03-06T15:49:40+03:00
 
 _Interested in creating your own user manual? Check out [this article](https://feld.com/archives/2016/04/user-manual-working/)_
 
-Last update: Jun 17, 2025
+Last update: Apr 7, 2026
 
 ## About
 
-Usually, I revisit this document once a year. I'm always surprised to see how my approach to product and now company development has evolved. Every year I learn something new and in a lot of cases those learnings are about things that I should stop doing or pay attention to. Sometimes, though, I might decide to include an entirely new section.
+Usually, I revisit this document once a year. Always surprised to see how my approach to product, company and now people development has evolved. Every year I learn something new and in a lot of cases those learnings are about things that I should stop doing or pay attention to. Sometimes, though, I might decide to include an entirely new section.
 
 ## Logistics
 
-- Based in Vilnius, Lithuania
+- Based in Vilnius, Lithuania (again!). Originally from the seaside.
+- Deeply invested in building cool products. Don't believe in work-life balance. I do, however, believe in work-life integration and I'm totally OK working long hours, because I really enjoy what I'm doing.
 - Know how to work across multiple timezones. Never had issues collaborating with teammates who are spread across the world. It's all about setting expectations and sticking to them.
-- Deeply invested in my career development. I do believe in work-life integration and I'm totally OK working long hours, because I really enjoy what I'm doing.
 
 ## Communication
 
-- **Internal chat:** If I’m working, I’m on the internal chat system. DMs are great, group messages are better, pings in a public channels are the best. I value transparency and being open by default.
-- **Email:** Email is a tool that I chose to master, so I have an "Inbox Zero" policy for all my email clients. You will get a response from me within 24 hours no matter what.
+- **Internal chat:** If I’m working, I’m on Slack. DMs are great, group messages are better, pings in public channels are the best. I value transparency and being open by default.
+- **Email:** Email is a tool that I chose to master, so I have an "Inbox Zero" policy for all my email clients. You will usually get a response from me within 24 hours.
 - **Meetings:** Meetings are expensive, take a lot of time and, in most cases, it’s better to send an email, however, I do find a lot of value in casual banter with my co-workers. Because of that my calendar is open for you and I trust that you will use your best judgment when scheduling a meeting with me.
+- **Do you have a minute?** Yes! Swing by my place in the office and let's discuss or whiteboard whatever is on your mind. I'm still fascinated by the office culture and high friction collaboration environments. Believe it or not, I have never worked in a proper office until the start of 2024.
 
 ## Things I value
 
@@ -40,6 +41,7 @@ Usually, I revisit this document once a year. I'm always surprised to see how my
 - **Micromagement:** I don't work in a kindergarten
 - **[Seagull management](https://en.wikipedia.org/wiki/Seagull_management)**: please don't do this
 - **Shifting blame on external factors:** Let’s talk about realistic variables that we can control and learn from
+- **Mediocracy:** If we are working on something together, there's a good chance that we are building something truly big. Hopefully working on our life's work. I'll push for excellence and precision at every step that matters and might get mad when countered with less precise offers
 
 ## Technology
 
@@ -47,7 +49,7 @@ Before 2022, I was in "just enough to be dangerous" club. Enough technical knowl
 
 - **Ship often:** code that is not in production is useless. Your users can't provide feedback. Also, nobody likes a massive Pull Request. Please do yourself a favor and ship often!
 - **All tech stacks are great:** Just choose the right tools for the job and the business case.
-- Product Managers who have been doing their work for > 5years should really consider learning to code. Especially when the job market wants to do more with less.
+- **AI has changed the game:** You can whip up a quick AI prototype before comitting massive resources to building something new. Use it! A prototype is always better than a documentation.
 
 ## How can people earn an extra gold star with me?
 
@@ -93,5 +95,5 @@ The holy trinity 😇 I consider that these books define what working in softwar
 Sci-fi corner
 
 - [We Are Legion (We Are Bob): Bobiverse, Book 1](https://www.amazon.com/We-Are-Legion-We-Are-Bob-audiobook/dp/B01L082SCI/): I absolutely love this series
-- [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor-audiobook/dp/B010GJG4PE/): Among all the sci-fi books that are out there, this one is really unique and worth a listen
 - [Leviathan Wakes](https://www.amazon.com/Leviathan-Wakes-James-S-A-Corey-audiobook/dp/B073HBQXMT/): _"I keep warning you. Doors and corners, kid. That's where they get you."_
+- ["Galaxy's Edge" audiobook series](https://www.amazon.com/dp/B0753GHB3Z?binding=audio_download&ref=dbs_dp_sirpi): That's where you end up when going very very deep into the sci-fi genre. 25+ audiobook series of some kick-ass military sci-fi.

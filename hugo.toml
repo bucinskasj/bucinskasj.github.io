@@ -6,7 +6,7 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; 2024, Jonas Bučinskas"
+copyright = "&copy; 2026, Jonas Bučinskas"
 
 # Main menu items
 [menu]
@@ -47,4 +47,4 @@ copyright = "&copy; 2024, Jonas Bučinskas"
     href = "https://twitter.com/bucinskas"
   [[params.social]]
     fa_icon = "fas fa-at fa-1x"
-    href = "mailto:jonas@fiestos.com"
+    href = "mailto:jonas@bucinskas.io"

@@ -28,7 +28,7 @@ I assume that the selection criteria still depends on the individual case, howev
 - Teams of 2-3 founders. You were able to make the first and the most important sale -- you convinced someone else to join your team.
 
 The above two are the most important ones for sure, however, it might evolve over time as FU gets more traction. The first few cohorts had a 100% acceptance rate, while Cohort 6 had 10%.
-{{< tweet user="Jason" id="1690470998402015232" >}}
+{{< x user="Jason" id="1690470998402015232" >}}
 
 ## Cadence
 
